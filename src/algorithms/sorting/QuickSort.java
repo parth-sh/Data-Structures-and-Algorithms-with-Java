@@ -1,4 +1,4 @@
-package dsa.sorting;
+package algorithms.sorting;
 import java.util.Scanner;
 
 public class QuickSort {

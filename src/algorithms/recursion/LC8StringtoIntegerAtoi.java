@@ -1,4 +1,4 @@
-package dsa.recursion;
+package algorithms.recursion;
 
 import java.util.Scanner;
 

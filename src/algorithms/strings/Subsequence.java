@@ -1,4 +1,4 @@
-package dsa.strings;
+package algorithms.strings;
 
 public class Subsequence {
 

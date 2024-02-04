@@ -1,4 +1,4 @@
-package dsa.recursion;
+package algorithms.recursion;
 
 public class LC509FibonacciNumber {
 

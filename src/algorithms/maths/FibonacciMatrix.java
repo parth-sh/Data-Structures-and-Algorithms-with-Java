@@ -1,4 +1,4 @@
-package dsa.maths;
+package algorithms.maths;
 import java.util.Scanner;
 
 public class FibonacciMatrix {

@@ -1,4 +1,4 @@
-package dsa.arrays;
+package algorithms.arrays;
 
 import java.util.Scanner;
 

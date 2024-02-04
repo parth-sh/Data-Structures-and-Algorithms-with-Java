@@ -1,4 +1,4 @@
-package dsa.binary_search.cp;
+package algorithms.binary_search.cp;
 
 import java.util.Scanner;
 

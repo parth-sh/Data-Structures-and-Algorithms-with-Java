@@ -1,4 +1,4 @@
-package dsa.binary_search;
+package algorithms.binary_search;
 
 public class LowerBound {
     public static void main(String[] args) {
